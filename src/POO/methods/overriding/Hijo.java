@@ -2,8 +2,8 @@ package POO.methods.overriding;
 
 public class Hijo extends Padre{
 
-    @Override
+    /*@Override
     void show(){
         System.out.println("Mensaje desde clase hijo");
-    }
+    }*/
 }
